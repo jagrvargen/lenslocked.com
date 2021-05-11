@@ -58,6 +58,7 @@ builds/**/images/*
 **/tmp/*
 
 # Don't include our binary
+main
 lenslocked.com
 images/**
 
